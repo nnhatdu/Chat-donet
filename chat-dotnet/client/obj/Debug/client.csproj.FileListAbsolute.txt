@@ -1,0 +1,37 @@
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\bin\Debug\client.exe.config
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\bin\Debug\client.exe
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\bin\Debug\client.pdb
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.client.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.dob.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.Info.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.IP.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.login.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.name.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.newFileName.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.password.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.ShowListFile.resources
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.exe
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.pdb
+C:\Users\matth\Documents\GitHub\chat-dotnet\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\bin\Debug\client.exe.config
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\bin\Debug\client.exe
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\bin\Debug\client.pdb
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.client.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.dob.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.Info.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.IP.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.login.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.name.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.newFileName.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.password.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.ShowListFile.resources
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.exe
+C:\Users\nnhat\OneDrive - VNU-HCMUS\fit@hcmus\Sem 4\Computer Networking\chat-dotnet\client\obj\Debug\client.pdb
